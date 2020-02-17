@@ -7,3 +7,10 @@
 
 _This text is italic._
 **This text is strong.**
+
+~~This text is strikethrough~~
+<!-- use --- as a horizontal line-->
+---
+
+> This is a quote
+> quote content
