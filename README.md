@@ -14,3 +14,5 @@ _This text is italic._
 
 > This is a quote
 > quote content
+
+[Link to Google](https://google.com) 
